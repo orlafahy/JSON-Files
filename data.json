@@ -1,26 +1,242 @@
 [
-  {
-    "name": "Meowsy",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+    {
+        "url": "http://0.0.0.0:8001/atms/1/",
+        "name": "ATM1",
+        "type": "BOI",
+        "latitudes": 53.348464,
+        "longitudes": -6.259345,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/2/",
+        "name": "ATM2",
+        "type": "BOI",
+        "latitudes": 53.346415,
+        "longitudes": -6.278571,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/3/",
+        "name": "ATM3",
+        "type": "BOI",
+        "latitudes": 53.349858,
+        "longitudes": -6.250075,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/4/",
+        "name": "ATM4",
+        "type": "BOI",
+        "latitudes": 53.329154,
+        "longitudes": -6.265525,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/5/",
+        "name": "ATM5",
+        "type": "BOI",
+        "latitudes": 53.315209,
+        "longitudes": -6.283377,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/6/",
+        "name": "ATM6",
+        "type": "BOI",
+        "latitudes": 53.30208,
+        "longitudes": -6.29711,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/7/",
+        "name": "ATM7",
+        "type": "BOI",
+        "latitudes": 53.324028,
+        "longitudes": -6.327323,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/8/",
+        "name": "ATM8",
+        "type": "BOI",
+        "latitudes": 53.324233,
+        "longitudes": -6.252135,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/9/",
+        "name": "ATM9",
+        "type": "BOI",
+        "latitudes": 53.317055,
+        "longitudes": -6.207503,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/10/",
+        "name": "ATM10",
+        "type": "BOI",
+        "latitudes": 53.343914,
+        "longitudes": -6.261061,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/11/",
+        "name": "ATM11",
+        "type": "AIB",
+        "latitudes": 53.342848,
+        "longitudes": -6.260032,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/12/",
+        "name": "ATM12",
+        "type": "AIB",
+        "latitudes": 53.346128,
+        "longitudes": -6.293677,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/13/",
+        "name": "ATM13",
+        "type": "AIB",
+        "latitudes": 53.311681,
+        "longitudes": -6.275138,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/14/",
+        "name": "ATM14",
+        "type": "AIB",
+        "latitudes": 53.298757,
+        "longitudes": -6.286124,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/15/",
+        "name": "ATM15",
+        "type": "AIB",
+        "latitudes": 53.298962,
+        "longitudes": -6.321143,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/16/",
+        "name": "ATM16",
+        "type": "AIB",
+        "latitudes": 53.328498,
+        "longitudes": -6.301574,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/17/",
+        "name": "ATM17",
+        "type": "AIB",
+        "latitudes": 53.332394,
+        "longitudes": -6.263808,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/18/",
+        "name": "ATM18",
+        "type": "AIB",
+        "latitudes": 53.328252,
+        "longitudes": -6.307754,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/19/",
+        "name": "ATM19",
+        "type": "AIB",
+        "latitudes": 53.291944,
+        "longitudes": -6.326293,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/20/",
+        "name": "ATM20",
+        "type": "AIB",
+        "latitudes": 53.343914,
+        "longitudes": -6.261061,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/21/",
+        "name": "ATM21",
+        "type": "Ulster",
+        "latitudes": 53.343102,
+        "longitudes": -6.259846,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/22/",
+        "name": "ATM22",
+        "type": "Ulster",
+        "latitudes": 53.34382,
+        "longitudes": -6.249031,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/23/",
+        "name": "ATM23",
+        "type": "Ulster",
+        "latitudes": 53.347885,
+        "longitudes": -6.265187,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/24/",
+        "name": "ATM24",
+        "type": "Ulster",
+        "latitudes": 53.349798,
+        "longitudes": -6.250099,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/25/",
+        "name": "ATM25",
+        "type": "Ulster",
+        "latitudes": 53.343501,
+        "longitudes": -6.249565,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/26/",
+        "name": "ATM26",
+        "type": "Ulster",
+        "latitudes": 53.324445,
+        "longitudes": -6.25317,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/27/",
+        "name": "ATM27",
+        "type": "Ulster",
+        "latitudes": 53.347726,
+        "longitudes": -6.259178,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/28/",
+        "name": "ATM28",
+        "type": "Ulster",
+        "latitudes": 53.337362,
+        "longitudes": -6.251034,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/29/",
+        "name": "ATM29",
+        "type": "Ulster",
+        "latitudes": 53.322611,
+        "longitudes": -6.265454,
+        "extra": "null"
+    },
+    {
+        "url": "http://0.0.0.0:8001/atms/30/",
+        "name": "ATM30",
+        "type": "Ulster",
+        "latitudes": 53.360955,
+        "longitudes": -6.272263,
+        "extra": "null"
     }
-  },
-  {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
-  },
-  {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
-  }
 ]
