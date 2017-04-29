@@ -5,8 +5,8 @@
         "type": "BOI",
         "latitudes": 53.348464,
         "longitudes": -6.259345,
-        "10" : true
-        "20" : true
+        "10" : true,
+        "20" : true,
         "50" : false
     },
     {
@@ -15,8 +15,8 @@
         "type": "BOI",
         "latitudes": 53.346415,
         "longitudes": -6.278571,
-        "10" : true
-        "20" : true
+        "10" : true,
+        "20" : true,
         "50" : false
     },
 ]
